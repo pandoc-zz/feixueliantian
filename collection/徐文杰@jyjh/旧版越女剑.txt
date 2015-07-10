@@ -3,7 +3,7 @@ title: 旧版越女剑
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 越女剑(旧版)

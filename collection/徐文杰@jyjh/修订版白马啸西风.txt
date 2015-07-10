@@ -3,7 +3,7 @@ title: 修订版白马啸西风
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 白马啸西风

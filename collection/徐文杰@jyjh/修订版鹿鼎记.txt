@@ -3,7 +3,7 @@ title: 修订版鹿鼎记
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 第一回　纵横钩党清流祸 峭茜风期月旦评

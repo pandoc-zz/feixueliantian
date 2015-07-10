@@ -3,7 +3,7 @@ title: 旧版碧血剑
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 第一回 叹息生民苦 跋涉世道艰

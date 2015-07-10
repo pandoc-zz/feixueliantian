@@ -3,7 +3,7 @@ title: 旧版素心剑
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 第一回 剑破夜空埋恨种 血洒华堂孕仇根

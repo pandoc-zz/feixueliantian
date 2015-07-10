@@ -3,7 +3,7 @@ title: 修订版倚天屠龙记
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 一 天涯思君不可忘

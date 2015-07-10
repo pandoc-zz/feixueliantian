@@ -3,7 +3,7 @@ title: 新修版笑傲江湖
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 一 灭门

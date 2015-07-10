@@ -3,7 +3,7 @@ title: 旧版笑傲江湖
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 第一回 福威镖局

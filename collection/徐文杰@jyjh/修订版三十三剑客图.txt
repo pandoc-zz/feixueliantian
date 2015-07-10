@@ -3,7 +3,7 @@ title: 修订版三十三剑客图
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 三十三剑客图(修订版）

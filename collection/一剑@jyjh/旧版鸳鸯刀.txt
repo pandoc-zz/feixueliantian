@@ -3,7 +3,7 @@ title: 旧版鸳鸯刀
 author: 金庸
 subject: 武侠小说
 language: zh-CN
-...
+---
 
 
 # 鸳鸯刀
